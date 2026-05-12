@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "skills": [
+    {
+      "name": "uematgen",
+      "path": "skills/.curated/uematgen",
+      "version": "0.1.0",
+      "status": "curated",
+      "tags": ["unreal", "materials", "hlsl"]
+    }
+  ]
+}

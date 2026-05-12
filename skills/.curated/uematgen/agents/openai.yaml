@@ -1,0 +1,4 @@
+interface:
+  display_name: "UEMatGen"
+  short_description: "Generate Unreal material assets"
+  default_prompt: "Use $uematgen to generate a material asset for an Unreal Engine project."
