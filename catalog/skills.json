@@ -4,7 +4,7 @@
     {
       "name": "uematgen",
       "path": "skills/.curated/uematgen",
-      "version": "0.1.0",
+      "version": "0.1.1",
       "status": "curated",
       "tags": ["unreal", "materials", "hlsl"]
     }

@@ -16,6 +16,13 @@ python C:\Users\j_ma2\.codex\skills\.system\skill-installer\scripts\list-skills.
 python C:\Users\j_ma2\.codex\skills\.system\skill-installer\scripts\install-skill-from-github.py --repo crazybach/ue_skills_for_ai --path skills/.curated/uematgen
 ```
 
+Or install from the GitHub directory URL in a fresh environment:
+
+```powershell
+$codexHome = if ($env:CODEX_HOME) { $env:CODEX_HOME } else { Join-Path $env:USERPROFILE ".codex" }
+python (Join-Path $codexHome "skills\.system\skill-installer\scripts\install-skill-from-github.py") --url "https://github.com/crazybach/ue_skills_for_ai/tree/main/skills/.curated/uematgen"
+```
+
 ## Install a Pinned Version
 
 ```powershell
