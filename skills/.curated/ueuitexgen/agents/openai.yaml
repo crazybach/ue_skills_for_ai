@@ -1,0 +1,4 @@
+interface:
+  display_name: "UEUITexGen"
+  short_description: "Generate production Unreal UI texture assets"
+  default_prompt: "Use $ueuitexgen to disassemble a UI reference into production-style imagegen-assisted Unreal UI widget PNGs, texture imports, and a layout mapping for uewbpgen."

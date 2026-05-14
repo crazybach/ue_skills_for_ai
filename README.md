@@ -22,6 +22,12 @@ python C:\Users\j_ma2\.codex\skills\.system\skill-installer\scripts\install-skil
 python C:\Users\j_ma2\.codex\skills\.system\skill-installer\scripts\install-skill-from-github.py --repo crazybach/ue_skills_for_ai --path skills/.curated/uewbpgen
 ```
 
+## Install ueuitexgen
+
+```powershell
+python C:\Users\j_ma2\.codex\skills\.system\skill-installer\scripts\install-skill-from-github.py --repo crazybach/ue_skills_for_ai --path skills/.curated/ueuitexgen
+```
+
 Or install from the GitHub directory URL in a fresh environment:
 
 ```powershell
@@ -37,6 +43,10 @@ python C:\Users\j_ma2\.codex\skills\.system\skill-installer\scripts\install-skil
 
 ```powershell
 python C:\Users\j_ma2\.codex\skills\.system\skill-installer\scripts\install-skill-from-github.py --repo crazybach/ue_skills_for_ai --path skills/.curated/uewbpgen --ref uewbpgen-v0.1.0
+```
+
+```powershell
+python C:\Users\j_ma2\.codex\skills\.system\skill-installer\scripts\install-skill-from-github.py --repo crazybach/ue_skills_for_ai --path skills/.curated/ueuitexgen --ref ueuitexgen-v0.1.0
 ```
 
 ## Versioning
