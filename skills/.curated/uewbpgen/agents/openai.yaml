@@ -1,0 +1,4 @@
+interface:
+  display_name: "UEWBPGen"
+  short_description: "Generate Unreal Widget Blueprints"
+  default_prompt: "Use uewbpgen to create an Unreal Engine Widget Blueprint generator script from this UI description."
