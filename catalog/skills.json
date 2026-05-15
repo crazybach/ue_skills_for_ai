@@ -16,6 +16,13 @@
       "tags": ["unreal", "ui", "widget-blueprint", "python"]
     },
     {
+      "name": "uewbplayout",
+      "path": "skills/.curated/uewbplayout",
+      "version": "0.1.0",
+      "status": "curated",
+      "tags": ["unreal", "ui", "widget-blueprint", "layout", "python"]
+    },
+    {
       "name": "ueuitexgen",
       "path": "skills/.curated/ueuitexgen",
       "version": "0.1.0",

@@ -22,6 +22,12 @@ python C:\Users\j_ma2\.codex\skills\.system\skill-installer\scripts\install-skil
 python C:\Users\j_ma2\.codex\skills\.system\skill-installer\scripts\install-skill-from-github.py --repo crazybach/ue_skills_for_ai --path skills/.curated/uewbpgen
 ```
 
+## Install uewbplayout
+
+```powershell
+python C:\Users\j_ma2\.codex\skills\.system\skill-installer\scripts\install-skill-from-github.py --repo crazybach/ue_skills_for_ai --path skills/.curated/uewbplayout
+```
+
 ## Install ueuitexgen
 
 ```powershell
@@ -43,6 +49,10 @@ python C:\Users\j_ma2\.codex\skills\.system\skill-installer\scripts\install-skil
 
 ```powershell
 python C:\Users\j_ma2\.codex\skills\.system\skill-installer\scripts\install-skill-from-github.py --repo crazybach/ue_skills_for_ai --path skills/.curated/uewbpgen --ref uewbpgen-v0.1.0
+```
+
+```powershell
+python C:\Users\j_ma2\.codex\skills\.system\skill-installer\scripts\install-skill-from-github.py --repo crazybach/ue_skills_for_ai --path skills/.curated/uewbplayout --ref uewbplayout-v0.1.0
 ```
 
 ```powershell

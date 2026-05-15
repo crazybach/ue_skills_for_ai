@@ -1,0 +1,4 @@
+interface:
+  display_name: "UE WBP Layout"
+  short_description: "Dump Unreal WBP widget tree layouts"
+  default_prompt: "Use $uewbplayout to dump an Unreal Widget Blueprint hierarchy report."
