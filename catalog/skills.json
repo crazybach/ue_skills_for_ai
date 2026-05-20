@@ -9,6 +9,13 @@
       "tags": ["unreal", "materials", "hlsl"]
     },
     {
+      "name": "uedumpmat",
+      "path": "skills/.curated/uedumpmat",
+      "version": "0.1.0",
+      "status": "curated",
+      "tags": ["unreal", "materials", "hlsl", "python", "dump"]
+    },
+    {
       "name": "uewbpgen",
       "path": "skills/.curated/uewbpgen",
       "version": "0.1.0",

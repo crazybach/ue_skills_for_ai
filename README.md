@@ -16,6 +16,12 @@ python C:\Users\j_ma2\.codex\skills\.system\skill-installer\scripts\list-skills.
 python C:\Users\j_ma2\.codex\skills\.system\skill-installer\scripts\install-skill-from-github.py --repo crazybach/ue_skills_for_ai --path skills/.curated/uematgen
 ```
 
+## Install uedumpmat
+
+```powershell
+python C:\Users\j_ma2\.codex\skills\.system\skill-installer\scripts\install-skill-from-github.py --repo crazybach/ue_skills_for_ai --path skills/.curated/uedumpmat
+```
+
 ## Install uewbpgen
 
 ```powershell
@@ -45,6 +51,10 @@ python (Join-Path $codexHome "skills\.system\skill-installer\scripts\install-ski
 
 ```powershell
 python C:\Users\j_ma2\.codex\skills\.system\skill-installer\scripts\install-skill-from-github.py --repo crazybach/ue_skills_for_ai --path skills/.curated/uematgen --ref uematgen-v0.1.0
+```
+
+```powershell
+python C:\Users\j_ma2\.codex\skills\.system\skill-installer\scripts\install-skill-from-github.py --repo crazybach/ue_skills_for_ai --path skills/.curated/uedumpmat --ref uedumpmat-v0.1.0
 ```
 
 ```powershell

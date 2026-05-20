@@ -1,0 +1,4 @@
+interface:
+  display_name: "UE Dump Mat"
+  short_description: "Dump UE material reports and HLSL"
+  default_prompt: "Use $uedumpmat to dump readable Markdown info and shader HLSL for a UE material."
